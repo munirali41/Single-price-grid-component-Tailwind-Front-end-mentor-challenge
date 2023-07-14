@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+
+    :root {
+        --color-text-head: #00FFCA;
+        --color-text-span: #7B2869;
+        --color-text-btn: #DC0000;
+        --color-btn-fill: #ffffff;
+        --color-btn-fill-hover: #62CDFF;
+        --color-btn-muted: #D61355;
+        --color-bg-body: #E5EFF5;
+    }
+
+}

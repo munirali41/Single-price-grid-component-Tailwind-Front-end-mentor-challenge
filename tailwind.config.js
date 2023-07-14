@@ -12,7 +12,15 @@ module.exports = {
           span: "var(--color-text-span)",
           butn: "var(--color-text-btn)",
         },
-      },
+      }
+    
+      ,
+      backgroundColor:{
+        body:{
+             bg:""  
+        }
+
+      }
     },
   },
   plugins: [],
